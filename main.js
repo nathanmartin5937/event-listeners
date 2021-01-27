@@ -134,6 +134,3 @@ const init = () => {
   buttonEvents();
   pieBuilder(pies);
 }
-
-init();
-© 2021 GitHub, Inc.
